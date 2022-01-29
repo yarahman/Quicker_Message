@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961024836356",
+    "project_id": "quick-message-f46f3",
+    "storage_bucket": "quick-message-f46f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961024836356:android:a7215da070f739b7fb0651",
+        "android_client_info": {
+          "package_name": "com.yrinteligense.quicker_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961024836356-hgte61ql2gf6cg75rl13d10bbmkens1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHAMR7wWUZCMAAw8-Ou6jVuBApkh5W6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961024836356-hgte61ql2gf6cg75rl13d10bbmkens1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
